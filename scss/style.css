@@ -1,1 +1,14 @@
-/*# sourceMappingURL=style.css.map */
+.container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container .book {
+  margin-left: 55px;
+  margin-top: 40px;
+}
+
+.navbar {
+  background: red;
+}/*# sourceMappingURL=style.css.map */
